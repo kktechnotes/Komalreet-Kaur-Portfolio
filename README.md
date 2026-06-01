@@ -1,4 +1,4 @@
-# Komalreet Kaur | Technical Writer
+# Komalreet Kaur (Principal Technical Writer)
 
 Connect me at:</br>
 [Email](mailto:kktechnotes@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/komalreetkaur) &nbsp;|&nbsp; [GitHub](https://github.com/kktechnotes)
