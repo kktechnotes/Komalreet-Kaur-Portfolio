@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # Installing Docker Desktop on Windows - Detailed Guide
 The following tasks must be completed in the listed order:
 
