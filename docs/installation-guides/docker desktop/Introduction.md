@@ -1,3 +1,9 @@
+---
+title: Installation Guide
+parent: Projects
+nav_order: 3
+---
+
 # Introduction
 Docker is a containerization platform that allows you to run applications as Containers. A Docker Container is a light-weight, standalone executable package that binds application, its dependencies and resources required to run that application on any Operating System. Unlike Virtual Machines, Docker Containers run directly on Docker Engine and do not require a guest operating system. As Docker separates application and its dependencies from Guest OS, Docker Containers operate fast, consume less memory, and can be deployed easily. For example, installing and running a heavy RDBMS application without Docker may take several hours. However, by using Docker, you can install and run RDBMS containerized image within a few minutes. 
 
