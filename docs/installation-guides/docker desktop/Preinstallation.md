@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Docker Desktop Preinstallation Tasks
 This topic describes the system requirements and prerequisites required to install Docker Desktop on Windows.
 ## System Requirements
