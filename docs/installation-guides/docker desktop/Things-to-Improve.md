@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Things to Improve in official Docker Docs
 This topic lists the improvements that should be made in the official Docker documentation for better readability and understanding.
 > **Note**: The list contains only a few of the gaps. After detailed analysis and content restructuring, an exhaustive list can be prepared.
