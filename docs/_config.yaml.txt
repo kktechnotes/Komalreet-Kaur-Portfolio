@@ -1,0 +1,14 @@
+title: Komalreet Kaur
+description: Principal Technical Writer
+
+remote_theme: primerpages/jekyll-theme-profile
+
+markdown: GFM
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

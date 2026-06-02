@@ -3,7 +3,7 @@ title: Komalreet Kaur – Portfolio
 ---
 # Komalreet Kaur (Principal Technical Writer)
 
-Connect me at:</br>
+Connect me at:&nbsp;
 [Email](mailto:kktechnotes@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/komalreetkaur) &nbsp;|&nbsp; [GitHub](https://github.com/kktechnotes)
 
 ---
