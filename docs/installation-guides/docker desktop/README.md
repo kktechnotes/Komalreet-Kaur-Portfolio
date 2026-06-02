@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Docker Desktop - Installation
 This explains the process to install Docker Desktop and run a sample application using Docker.
 
