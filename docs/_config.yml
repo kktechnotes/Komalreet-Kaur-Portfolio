@@ -1,23 +1,15 @@
 title: Komalreet Kaur
-description: Principal Technical Writer
-
+description: Principal Technical Writer (Oracle)
 remote_theme: just-the-docs/just-the-docs
-
 url: "https://kktechnotes.github.io"
 baseurl: "/Komalreet-Kaur-Portfolio"
-
-markdown: kramdown
-
+markdown: GFM
 plugins:
   - jekyll-remote-theme
-  - jekyll-relative-links
 
 relative_links:
   enabled: true
   collections: true
-
 search_enabled: true
-
 footer_content: "© Komalreet Kaur"
-
 color_scheme: light

@@ -1,5 +1,6 @@
 ---
 title: Komalreet Kaur – Portfolio
+layout: home
 ---
 # Komalreet Kaur (Principal Technical Writer)
 
