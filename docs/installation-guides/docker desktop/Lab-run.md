@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Lab: Running Container Image of an Application on Docker Desktop
 This section describes the steps to run your first docker application. For demonstration purposes, use the [sample application](https://github.com/docker/getting-started).
 > **Assumption**: You are familiar with GIT concepts and GIT is installed on your system.
