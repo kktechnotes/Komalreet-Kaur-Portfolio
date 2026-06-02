@@ -1,3 +1,9 @@
+---
+title: Integration Guide
+parent: Projects
+nav_order: 2
+---
+
 # Generic REST Integration — Oracle Access Governance
 
 ## Overview
